@@ -147,3 +147,53 @@ exit [ˈeksɪt] n. 出口
 exclude [ɪkˈskluːd] v. 排外
 
 ex-boyfirend [eks ˈbɔɪfrend] n. 前男友
+
+
+
+
+
+# fore - 前，先，预先
+
+
+
+forehead [ˈfɔːrhed]  n. 前额
+
+forefather [ˈfɔːrfɑːðər]  n. 祖先
+
+foresee [fɔːrˈsiː]  v. 预知
+
+
+
+
+
+# in-/im - 不，向里
+
+
+
+inccrect [ˌɪnkəˈrekt]  a. 错误的
+
+incomplete [ˌɪnkəmˈpliːt]  a. 不完全的
+
+indoor [ˈɪndɔːr]  a. 室内的
+
+inbreathe [ˈɪnˈbriːð]  v. 吸入
+
+impossible [ɪmˈpɑːsəbl] a. 不可能的
+
+imbalance [ɪmˈbæləns] n. 不平衡
+
+immortal [ɪˈmɔːrtl] a. 不死的
+
+import [ˈɪmpɔːrt] n./v. 进口
+
+
+
+
+
+# inter - 在...之间
+
+
+
+international [ˌɪntərˈnæʃnəl]  a. 国际的
+
+intepersonal [ˌɪntərˈpɜːrsənl]  a. 人际的
