@@ -197,3 +197,69 @@ import [ˈɪmpɔːrt] n./v. 进口
 international [ˌɪntərˈnæʃnəl]  a. 国际的
 
 intepersonal [ˌɪntərˈpɜːrsənl]  a. 人际的
+
+
+
+
+
+# mis - 错
+
+
+
+misuse [ˌmɪsˈjuːz]  v. 误用，滥用
+
+misfortune [ˌmɪsˈfɔːrtʃuːn]  n. 不幸
+
+misnuderstand [ˌmɪsʌndərˈstænd]  v. 误会，曲解
+
+
+
+
+
+# out - 超过，外
+
+
+
+outnumber [ˌaʊtˈnʌmbər]  v. 在数量上超过
+
+outspend [aʊtˈspend]  v. 花费过度
+
+outdoor [ˈaʊtdɔːr]  a. 户外的
+
+
+
+
+
+# over - 过度
+
+
+
+overpraise [ˌəʊvəˈpreɪz]  n./v. 过誉
+
+overstudy [ˈəʊvəˌstʌdi]  v. 过度学习
+
+
+
+
+
+# post - 后
+
+
+
+postwar [poʊˈstwɔr]  a. 战后的
+
+postpone [poʊˈspoʊn]  v. 退后
+
+postgraduate [ˌpoʊstˈɡrædʒuət]  n. 研究生
+
+
+
+
+
+# pre - 前
+
+
+
+prehistory [ˌpriːˈhɪstri]  n. 史前时代
+
+precondition [ˌpriːkənˈdɪʃn]  n. 前提条件
