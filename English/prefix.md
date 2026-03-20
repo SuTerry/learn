@@ -263,3 +263,75 @@ postgraduate [ˌpoʊstˈɡrædʒuət]  n. 研究生
 prehistory [ˌpriːˈhɪstri]  n. 史前时代
 
 precondition [ˌpriːkənˈdɪʃn]  n. 前提条件
+
+
+
+
+
+# pro - 向前
+
+
+
+progress [prɑːɡres]  n. 进步
+
+prolong [prəˈlɔːŋ]  v. 向前延伸
+
+
+
+
+
+# re - 向后，再一次
+
+
+
+return [rɪˈtɜːrn]  v. 回来，返回
+
+retcall [rɪˈkɔːl]  v. 召回
+
+regress [rɪˈɡres]  v. 倒退
+
+rebirth [ˌriːˈbɜːrθ]  n. 再生
+
+reconsider [ˌriːkənˈsɪdər]  v. 重新考虑
+
+
+
+
+
+# sub - 下，下级
+
+
+
+subway [ˈsʌbweɪ]  n. 地铁
+
+subaverage [ˈsʌbˈævərɪdʒ]  a. 低于平均水平的
+
+subtitle [ˈsʌbtaɪtl]  n. 副标题
+
+subbranch [ˈsʌbˌbrænt]  n. 分支，子公司
+
+
+
+
+
+# trans - 转移
+
+
+
+transform [trænsˈfɔːrm]  v. 改变
+
+transplant [trænsˈplænt]  v. 移植
+
+transposition [ˌtrænspəˈzɪʃn]  n. 互换位置
+
+
+
+
+
+# mono - 数字1
+
+
+
+monotone [ˈmɑːnətoʊn]  n. 单调
+
+monodrama [ˈmɑːnədrɑːmə]  n. 独角戏
