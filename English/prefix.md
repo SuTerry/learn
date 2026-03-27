@@ -335,3 +335,36 @@ transposition [ˌtrænspəˈzɪʃn]  n. 互换位置
 monotone [ˈmɑːnətoʊn]  n. 单调
 
 monodrama [ˈmɑːnədrɑːmə]  n. 独角戏
+
+
+
+
+
+# bi - 数字2
+
+
+
+bicycle [ˈbaɪsɪkl]  n. 自行车
+
+bilateral [ˈbaɪsɪkl]  a. 双边的
+
+
+
+
+
+# di - 数字2
+
+
+
+dioxide [daɪˈɑːksaɪd]  n. 二氧化碳
+
+divorce [dɪˈvɔːrs]  v./n. 离婚
+
+
+
+
+
+# tri - 数字3
+
+
+
