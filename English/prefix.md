@@ -356,7 +356,7 @@ bilateral [ˈbaɪsɪkl]  a. 双边的
 
 
 
-dioxide [daɪˈɑːksaɪd]  n. 二氧化碳
+dioxide [daɪˈɑːksaɪd]  n. 二氧化物
 
 divorce [dɪˈvɔːrs]  v./n. 离婚
 
@@ -368,3 +368,54 @@ divorce [dɪˈvɔːrs]  v./n. 离婚
 
 
 
+triangle [ˈtraɪæŋɡl]  n. 三角形
+
+trike [traɪk]  n. 三轮车
+
+
+
+
+
+# hemi - 半
+
+
+
+hemisphere [ˈhemɪsfɪr]  n. 半球
+
+hemicycle [ˈhemɪˌsaɪkl]  n. 半圆形
+
+
+
+
+
+# semi - 半
+
+
+
+semifinal [ˌsemiˈfaɪnəl]  n. 半决赛
+
+semifinal [ˌsemiˌɔːtəˈmætɪk]  a. 半自动的
+
+
+
+
+
+# poly - 多
+
+
+
+monopoly [məˈnɑːpəli]  n. 垄断
+
+polytechnic [ˌpɑːliˈteknɪk]  n. 理工学校
+
+
+
+
+
+# multi - 多
+
+
+
+multi-purpose [ˈmʌlti ˈpɜːrpəs]  a. 多功能的
+
+multi-media [ˈmʌlti ˈmiːdiə]  n. 多媒体
