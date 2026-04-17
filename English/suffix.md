@@ -49,3 +49,77 @@ arrival [əˈraɪvl]  n. 到达
 survival [sərˈvaɪvl]  n. 幸存，幸存者
 
 criminal [ˈkrɪmɪnl]  n. 罪犯
+
+
+
+
+
+# ate - 做，造成【动词后缀】
+
+
+
+generate [ˈdʒenəreɪt]  v. 造成
+
+create [kriˈeɪt]  v. 创作
+
+
+
+
+
+# ate - 人【名词后缀】
+
+
+
+graduate [ˈɡrædʒueɪt]  n. 毕业生
+
+candidate [ˈkændɪdət]  n. 候选人
+
+advocate [ˈædvəkeɪt ]  n. 支持者
+
+
+
+
+
+# ed - 有/已/被...的【形容词后缀】
+
+
+
+## 加在名词后，有...的
+
+
+
+gifted [ˈɡɪftɪd]  a. 有天赋的
+
+talented [ˈtæləntɪd]  a. 有天赋的
+
+skilled [skɪld]  a. 熟练的
+
+warm-hearted [ˌwɔːrm ˈhɑːrtɪd]  a. 热心的
+
+
+
+
+
+## 加在动词后，已...的，被...的
+
+
+
+extendid [ɪkˈstendɪd]  a. 延伸的
+
+educated [ˈedʒukeɪtɪd]  a. 受过教育的
+
+married [ˈmærid]  a. 已婚的
+
+
+
+
+
+# en - 使变成【动词后缀】
+
+
+
+shorten [ˈʃɔːrtn]  v. 缩短
+
+sharpen [ˈʃɑːrpən]  v. 削尖
+
+strengthen [ˈstreŋθn]  v. 加强
