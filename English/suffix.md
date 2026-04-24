@@ -123,3 +123,59 @@ shorten [ˈʃɔːrtn]  v. 缩短
 sharpen [ˈʃɑːrpən]  v. 削尖
 
 strengthen [ˈstreŋθn]  v. 加强
+
+
+
+
+
+# ence - 抽象名词【名词后缀】
+
+
+
+defference [ˈdɪfrəns]  n. 差别
+
+confidence [ˈkɑːnfɪdəns]  n. 信心
+
+dependence [dɪˈpendəns]  n. 依赖
+
+
+
+
+
+# ful - 富有.../具有...性质的【形容词后缀】
+
+
+
+useful [ˈjuːsfl]  a. 有用的
+
+hopeful [ˈhoʊpfl]  a. 抱有希望的
+
+powerful [ˈpaʊərfl]  a. 强大的
+
+
+
+
+
+# fy - 使变成... 【动词后缀】
+
+
+
+simplify [ˈsɪmplɪfaɪ]  v. 简化
+
+beautify [ˈbjuːtɪfaɪ]  v. 美化
+
+purify [ˈpjʊrɪfaɪ]  v. 净化
+
+
+
+
+
+# ic - ...的 【形容词后缀】
+
+
+
+historic [hɪˈstɔːrɪk]  a. 历史的
+
+basic [ˈbeɪsɪk]  a. 基本的
+
+realistic [ˌriːəˈlɪstɪk]  a. 现实的
