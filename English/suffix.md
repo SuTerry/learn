@@ -179,3 +179,47 @@ historic [hɪˈstɔːrɪk]  a. 历史的
 basic [ˈbeɪsɪk]  a. 基本的
 
 realistic [ˌriːəˈlɪstɪk]  a. 现实的
+
+
+
+
+
+# ion - 抽象名词【名词后缀】
+
+
+
+action [ˈækʃn]  n. 行为，动作
+
+correction [kəˈrekʃn]  n. 改正
+
+discussion [dɪˈskʌʃn]  n. 讨论
+
+
+
+
+
+# ism - ...主义/流派/特性【名词后缀】
+
+
+
+individualism [ˌɪndɪˈvɪdʒuəlɪzəm]  n. 个人主义
+
+capitalism [ˈkæpɪtəlɪzəm]  n. 资本主义
+
+modernism [ˈmɑːdərnɪzəm]  n. 现代主义
+
+humanism [ˈhjuːmənɪzəm]  n. 人文主义
+
+
+
+
+
+# ist - 人/...家【名词后缀】
+
+
+
+artist [ˈɑːrtɪst]  n. 艺术家
+
+communist [ˈkɑːmjənɪst]  n. 共产主义者
+
+scientist [ˈsaɪəntɪst]  n. 科学家
