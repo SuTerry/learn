@@ -104,7 +104,7 @@ warm-hearted [ˌwɔːrm ˈhɑːrtɪd]  a. 热心的
 
 
 
-extendid [ɪkˈstendɪd]  a. 延伸的
+extended [ɪkˈstendɪd]  a. 延伸的
 
 educated [ˈedʒukeɪtɪd]  a. 受过教育的
 
@@ -223,3 +223,61 @@ artist [ˈɑːrtɪst]  n. 艺术家
 communist [ˈkɑːmjənɪst]  n. 共产主义者
 
 scientist [ˈsaɪəntɪst]  n. 科学家
+
+
+
+
+
+# ive - 有...性质的/作用的【形容词后缀】
+
+
+
+attractive [əˈtræktɪv]  a. 有魅力的
+
+impressive [ɪmˈpresɪv]  a. 给人深刻印象的
+
+creative [kriˈeɪtɪv]  a. 有创造力的
+
+
+
+
+
+# ize - ...化【动词后缀】
+
+
+
+realize [riːəlaɪz]  v. 实现
+
+centralize [ˈsentrəlaɪz]  v. 集中
+
+industrialize [ɪnˈdʌstriəlaɪz]  v. 工业化
+
+
+
+
+
+# less - 无...的【形容词后缀】
+
+
+
+homeless [ˈhoʊmləs]  a. 无家可归的
+
+useless [ˈjuːsləs]  a. 无用的
+
+hopeless [ˈhoʊpləs]  a. 绝望的
+
+
+
+
+
+# ment - 行为的过程和结果/物【名词后缀】
+
+
+
+punishment [ˈpʌnɪʃmənt]  n. 惩罚
+
+development [dɪˈveləpmənt]  n. 发展
+
+attachment [əˈtætʃmənt]  n. 附件
+
+basement [ˈbeɪsmənt]  n. 地下室
