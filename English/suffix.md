@@ -281,3 +281,73 @@ development [dɪˈveləpmənt]  n. 发展
 attachment [əˈtætʃmənt]  n. 附件
 
 basement [ˈbeɪsmənt]  n. 地下室
+
+
+
+
+
+# ness - 抽象名词【名词后缀】
+
+
+
+weakness [ˈwiːknəs]  n. 弱点
+
+kindness [ˈkaɪndnəs]  n. 仁慈
+
+darkness [ˈdɑːrknəs]  n. 黑暗
+
+
+
+
+
+# ship - 【名词后缀】
+
+
+
+## 情况/关系
+
+
+
+hardship [ˈhɑːrdʃɪp]  n. 艰难困苦
+
+friendship [ˈfrendʃɪp]  n. 友谊
+
+
+
+
+
+## 身份/资格
+
+
+
+kingship[ˈkɪŋʃɪp]  n. 王位，王权
+
+membership[ˈmembərʃɪp]  n. 会员资格
+
+
+
+
+
+# ward - 向...的/朝...【形容词及副词后缀】
+
+
+
+downward [ˈdaʊnwərd]  a./ad. 向下的（地）
+
+backward [ˈbækwərd]  a./ad. 向后的（地）
+
+northward [ˈnɔːrθwərd]  a./ad. 向北方的（地）
+
+
+
+
+
+# y - 多...的/有...的【形容词后缀】
+
+
+
+rainy [ˈreɪni]  a. 下雨的，多雨的
+
+wordy [ˈwɜːrdi]  a. 冗长的，唠叨的
+
+hairy [ˈheri]  a. 多毛的
