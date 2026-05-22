@@ -351,3 +351,16 @@ rainy [ˈreɪni]  a. 下雨的，多雨的
 wordy [ˈwɜːrdi]  a. 冗长的，唠叨的
 
 hairy [ˈheri]  a. 多毛的
+
+
+
+## 抽象名词【名词后缀】
+
+
+
+difficulty[ˈdɪfɪkəlti]  n. 困难
+
+discovery[dɪˈskʌvəri]  n. 发现
+
+mastery[ˈmæstəri]  n. 精通
+
