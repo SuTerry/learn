@@ -248,7 +248,7 @@ overstudy [ˈəʊvəˌstʌdi]  v. 过度学习
 
 postwar [poʊˈstwɔr]  a. 战后的
 
-postpone [poʊˈspoʊn]  v. 退后
+postpone [poʊˈspoʊn]  v. 推后
 
 postgraduate [ˌpoʊstˈɡrædʒuət]  n. 研究生
 
