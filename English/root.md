@@ -83,3 +83,37 @@ seduce [sɪˈduːs]  v. 勾引，引诱
 reduce [rɪˈduːs]  v. 减少
 
 produce [prəˈduːs]  v. 生产
+
+
+
+
+
+# fer = bring,carry 带，拿
+
+
+
+offer [ˈɔːfər]  v. 提供
+
+perfer [prɪˈfɜːr]  v. 更喜欢
+
+differ [ˈdɪfər]  v. 不同
+
+transfer [trænsˈfɜːr]  v. 转移
+
+
+
+
+
+# ject = throw 投掷
+
+
+
+subject [ˈsʌbdʒɪkt]  n. 主题，话题
+
+object [ˈɑːbdʒekt]  v. 反对
+
+reject [rɪˈdʒekt]  v. 决绝，抛弃
+
+project [ˈprɑːdʒekt]  v. 抛出，投出，发射
+
+inject [ɪnˈdʒekt]  v. 注射
