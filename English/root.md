@@ -117,3 +117,71 @@ reject [rɪˈdʒekt]  v. 决绝，抛弃
 project [ˈprɑːdʒekt]  v. 抛出，投出，发射
 
 inject [ɪnˈdʒekt]  v. 注射
+
+
+
+
+
+# migr = move 迁移
+
+
+
+migrate [ˈmaɪɡreɪt]  v. 迁移，移居
+
+emigrate [ˈemɪɡreɪt]  v. 移居国外
+
+immigrate [ˈɪmɪɡreɪt]  v. 移入
+
+transmigrate [træns'maɪɡreɪt]  v. 移居
+
+
+
+
+
+# pend/pens = hang/pay 悬挂，花费
+
+
+
+## 悬挂意思
+
+
+
+depend [dɪˈpend]  v. 依靠
+
+independent [ˌɪndɪˈpendənt]  a. 独立自主的
+
+suspend [səˈspend]  v. 中止，悬而未决
+
+
+
+
+
+## 花费意思
+
+
+
+expensive [ɪkˈspensɪv]  a. 昂贵的
+
+pension [ˈpenʃn]  n. 退休金
+
+compensate [ˈkɑːmpenseɪt]  v. 补偿
+
+
+
+
+
+# pos = put 放置
+
+
+
+expose [ɪkˈspoʊz]  v. 揭露
+
+compose [kəmˈpoʊz]  v. 组成
+
+oppose [əˈpoʊz]  v. 反对
+
+dispose [dɪˈspoʊz]  v. 处理
+
+propose [prəˈpoʊz]  v. 提议，求婚
+
+position [pəˈzɪʃn]  n. 位置  v. 安置
