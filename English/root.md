@@ -185,3 +185,54 @@ dispose [dɪˈspoʊz]  v. 处理
 propose [prəˈpoʊz]  v. 提议，求婚
 
 position [pəˈzɪʃn]  n. 位置  v. 安置
+
+
+
+
+
+# rupt = break 破
+
+
+
+bankrupt [ɪkˈspoʊz]  v./n. 破产
+
+disrupt [dɪsˈrʌpt]  v. 使混乱，分裂
+
+corrupt [kəˈrʌpt]  v. 腐败，坠落
+
+erupt [ɪˈrʌpt]  v. 爆发，喷发
+
+
+
+
+
+# spect = look 看
+
+
+
+prospect [ˈprɑːspekt]  n. 前景
+
+inspect [ɪnˈspekt]  v. 检查
+
+expect [ɪkˈspekt]  v. 期望
+
+respect [rɪˈspekt]  v./n. 尊重
+
+suspect [səˈspekt]  v. 怀疑
+
+spectator [ˈspekteɪtər]  n. 观众
+
+
+
+
+
+# tract = draw 拉，引
+
+
+
+tractor [ˈtræktər]  n. 拖拉机
+
+attract [əˈtrækt]  v. 吸引
+
+contract [ˈkɑːntrækt]  n. 合同
+
