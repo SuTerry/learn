@@ -236,3 +236,44 @@ attract [əˈtrækt]  v. 吸引
 
 contract [ˈkɑːntrækt]  n. 合同
 
+extract [ˈekstrækt]  v. 提取
+
+distract [dɪˈstrækt]  v. 使分心
+
+
+
+
+
+# vert/vers = turn 旋转，转
+
+
+
+reverse [rɪˈvɜːrs]  v. 反转
+
+convert [kənˈvɜːrt]  v. 转变
+
+diverse [daɪˈvɜːrs]  a. 多种多样的
+
+introvert [ˈɪntrəvɜːrt]  n. 内向的人
+
+extrovert [ˈekstrəvɜːrt]  n. 外向的人
+
+
+
+
+
+# vis/vid = see 看
+
+
+
+visible [ˈvɪzəbl]  a. 看得见的
+
+revise [rɪˈvaɪz]  v. 复习，修订
+
+previse [prɪˈvaɪz]  v. 预知
+
+supervise [ˈsuːpərvaɪz]  v. 监督
+
+visual [ˈvɪʒuəl]  a. 视觉的
+
+visual [ˈvɪʒuəl]  a. 明显的
