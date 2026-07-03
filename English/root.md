@@ -276,4 +276,20 @@ supervise [ˈsuːpərvaɪz]  v. 监督
 
 visual [ˈvɪʒuəl]  a. 视觉的
 
-visual [ˈvɪʒuəl]  a. 明显的
+evident [ˈevɪdənt]  a. 明显的
+
+evidence [ˈevɪdəns]  n. 证据
+
+
+
+
+
+# viv = live 活
+
+
+
+revive [rɪˈvaɪv]  v. 复活，复苏
+
+vivid [ˈvɪvɪd]  a. 生动的
+
+survive [sərˈvaɪv]  v. 幸存
