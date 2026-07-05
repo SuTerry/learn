@@ -94,7 +94,7 @@ produce [prəˈduːs]  v. 生产
 
 offer [ˈɔːfər]  v. 提供
 
-perfer [prɪˈfɜːr]  v. 更喜欢
+prefer [prɪˈfɜːr]  v. 更喜欢
 
 differ [ˈdɪfər]  v. 不同
 
