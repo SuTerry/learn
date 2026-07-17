@@ -121,3 +121,29 @@ fringe [frɪndʒ]  n. 刘海，边缘
 edge [edʒ]  n. 边缘（悬崖峭壁）
 
 verge [vɜːrdʒ]  n. 边缘，界限
+
+
+
+
+
+# competitive edge 竞争优势
+
+
+
+competitive [kəmˈpetətɪv] a. 竞争的
+
+edge [edʒ]  n. 优势
+
+
+
+
+
+# curly hair 卷发
+
+
+
+curly [ˈkɜːrli] a. 卷发的
+
+curl [kɜːrl] v. 卷曲
+
+curve [kɜːrv] n. 曲线
