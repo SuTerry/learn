@@ -147,3 +147,59 @@ curly [ˈkɜːrli] a. 卷发的
 curl [kɜːrl] v. 卷曲
 
 curve [kɜːrv] n. 曲线
+
+
+
+
+
+# anti-wrinkle essence 抗皱精华
+
+
+
+wrinkle [ˈrɪŋkl] n. 皱纹
+
+essence [ˈesns] n. 本质，精华
+
+essential [ɪˈsenʃl] a. 基本的，必要的
+
+frown [fraʊn] v. 皱眉
+
+flush [flʌʃ] v. 脸红，冲刷
+
+glow [fraʊn] v. 发光
+
+glitter [fraʊn] v/n. 闪烁
+
+glare [ɡler] v. 怒目而视，刺眼
+
+flash [flæʃ] n./v./a. 闪光，一闪而过的
+
+flame [fleɪm] v. 燃烧 n. 火焰
+
+
+
+
+
+# wrist watch 腕表
+
+
+
+pocket [ˈpɑːkɪt] n. 口袋
+
+wrist [rɪst] n. 手腕
+
+waist [weɪst] n. 腰部
+
+
+
+
+
+# artificial limb 假肢
+
+
+
+limb [lɪm] n. 肢
+
+artificial [ˌɑːrtɪˈfɪʃl] a. 人工的
+
+climb [klaɪm] v. 爬
