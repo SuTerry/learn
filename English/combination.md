@@ -203,3 +203,95 @@ limb [lɪm] n. 肢
 artificial [ˌɑːrtɪˈfɪʃl] a. 人工的
 
 climb [klaɪm] v. 爬
+
+
+
+
+
+# muscle fatigue 肌肉疲劳
+
+
+
+muscle [ˈmʌsl] n. 肌肉
+
+muscular [ˈmʌskjələr] a. 肌肉的
+
+fatigue [fəˈtiːɡ] n./v. 疲劳
+
+
+
+
+
+# high-heeled shoes 高跟鞋
+
+
+
+heel [hiːl] n. 后脚跟
+
+shoes [ʃuːz] n. 鞋
+
+trim [trɪm] v. 修建 a. 整洁的，修长的
+
+elegant [ˈelɪɡənt] a. 优美的
+
+gorgeous [ˈɡɔːrdʒəs] a. 美丽动人的
+
+gorgeous day [ˈɡɔːrdʒəs deɪ] n. 好天气
+
+gorgeous weather [ˈɡɔːrdʒəs ˈweðər] n. 宜人的天气
+
+gorgeous lady [ˈɡɔːrdʒəs ˈleɪdi] n. 绝色佳人
+
+
+
+
+
+# attractive appearance 迷人的外貌
+
+
+
+attractive [əˈtræktɪv]  a. 有魅力的
+
+tractor [ˈtræktər]  n. 拖拉机
+
+contract [ˈkɑːntrækt]  n. 合同
+
+extract [ˈekstrækt]  v. 提取
+
+distract [dɪˈstrækt]  v. 使分心
+
+
+
+
+
+# magnetic field 磁场
+
+
+
+magnetic [mæɡˈnetɪk] a. 有吸引力的，有磁力的
+
+field [fiːld] n. 领域，场地
+
+enchanting [ɪnˈtʃæntɪŋ] a. 迷人的
+
+enchanted [ɪnˈtʃæntɪd] a. 着魔的
+
+
+
+
+
+# pursuit of perfection 追求完美
+
+
+
+pursuit [pərˈsuːt] n. 追赶，追求
+
+suit [suːt] n. 套装
+
+knowledge [ˈnɑːlɪdʒ] n. 知识，了解
+
+hot [hɑːt] a. 热
+
+pursuit of knowledge [pərˈsuːt əv ˈnɑːlɪdʒ] 追求知识
+
+hot pursuit [hɑːt pərˈsuːt] 紧追
