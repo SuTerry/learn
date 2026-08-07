@@ -295,3 +295,37 @@ hot [hɑːt] a. 热
 pursuit of knowledge [pərˈsuːt əv ˈnɑːlɪdʒ] 追求知识
 
 hot pursuit [hɑːt pərˈsuːt] 紧追
+
+perfection [pərˈfekʃn] n. 完美
+
+perfectionist [pərˈfekʃənɪst] n. 完美主义者
+
+perfectionism [pərˈfekʃənɪzəm] n. 完美主义
+
+
+
+
+
+# critical thinking 批判性思维
+
+
+
+critical [ˈkrɪtɪkl] a. 关键的，批判的，极重要的
+
+criticism [ˈkrɪtɪsɪzəm] n. 批评；批判
+
+critic [ˈkrɪtɪk] n. 评论家
+
+energy [ˈenərdʒi] n. 能量，能源
+
+conserve [kənˈsɜːrv] v. 保护，保存
+
+conserve energy [kənˈsɜːrv ˈenərdʒi] 保存能量
+
+conservative [kənˈsɜːrvətɪv] a./n. 保守的（人），保守党
+
+conservation [ˌkɑːnsərˈveɪʃn] n. 保存，保护
+
+
+
+<span style="color: red;">助记：serv = keep</span>
