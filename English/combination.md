@@ -246,24 +246,6 @@ gorgeous lady [ˈɡɔːrdʒəs ˈleɪdi] n. 绝色佳人
 
 
 
-# attractive appearance 迷人的外貌
-
-
-
-attractive [əˈtræktɪv]  a. 有魅力的
-
-tractor [ˈtræktər]  n. 拖拉机
-
-contract [ˈkɑːntrækt]  n. 合同
-
-extract [ˈekstrækt]  v. 提取
-
-distract [dɪˈstrækt]  v. 使分心
-
-
-
-
-
 # magnetic field 磁场
 
 
@@ -329,3 +311,101 @@ conservation [ˌkɑːnsərˈveɪʃn] n. 保存，保护
 
 
 <span style="color: red;">助记：serv = keep</span>
+
+
+
+
+
+# harsh words 刺耳伤人的话
+
+
+
+harsh [hɑːrʃ] a. 严厉的，刺耳的
+
+words [wɜːrdz] n. 词语
+
+
+
+
+
+# social butterfly 交际花
+
+
+
+social [ˈsoʊʃl] a. 社会的，社交的
+
+sociable [ˈsoʊʃəbl] a. 随和的，善交际的
+
+butterfly [ˈbʌtərflaɪ] n. 蝴蝶
+
+hesitate [ˈhezɪteɪt] v. 犹豫
+
+hesitant [ˈhezɪtənt] a. 犹豫的
+
+hesitation [ˌhezɪˈteɪʃn] n. 犹豫
+
+
+
+
+
+# intense hatred 强烈的仇恨
+
+
+
+intense [ɪnˈtens] a. 热情的，热烈的
+
+hatred [ˈheɪtrɪd] n. 仇恨
+
+
+
+
+
+# labor intensive 劳动密集型
+
+
+
+labor [ˈleɪbər] n. 劳动
+
+intensive [ɪnˈtensɪv] a. 密集的，加强的
+
+
+
+
+
+# ambitious attitude 雄心壮志
+
+
+
+ambitious [æmˈbɪʃəs] a. 有雄心的 
+
+ambiguous [æmˈbɪɡjuəs] a. 含糊的，有歧义的
+
+attitude [ˈætɪtuːd] n. 态度
+
+
+
+
+
+# take a gamble 冒险
+
+gamble [ˈɡæmbl] n./v. 赌博，冒风险
+
+cautious [ˈkɔːʃəs] a. 谨慎的
+
+caution [ˈkɔːʃn] n. 小心，警告
+
+
+
+<span style="color: red;">助记：cau = care</span>
+
+
+
+
+
+# rational choice 理智的选择
+
+
+
+rational [ˈræʃnəl] a. 理性的
+
+choice [tʃɔɪs] n. 选择
