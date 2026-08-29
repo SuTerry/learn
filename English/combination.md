@@ -409,3 +409,53 @@ caution [ˈkɔːʃn] n. 小心，警告
 rational [ˈræʃnəl] a. 理性的
 
 choice [tʃɔɪs] n. 选择
+
+
+
+
+
+# rigid routine 一成不变，刻板单调
+
+
+
+rigid [ˈrɪdʒɪd] a. 僵硬的，严格的
+
+routine [ruːˈtiːn] n. 常规，例行程序
+
+daily [ˈdeɪli] a. 日常的，每天
+
+daily routine [ˈdeɪli ruːˈtiːn/] 日常作息
+
+
+
+
+
+# innovative thinking 创新性思维
+
+
+
+innovative [ˈɪnəveɪtɪv] a. 创新的，富有革新精神的
+
+innovative ability [ˈɪnəveɪtɪv əˈbɪləti] 创新能力
+
+innovation [ˌɪnəˈveɪʃn] n. 创新，改革
+
+technological [ˌteknəˈlɑːdʒɪkl] a. 技术的，科技的
+
+technological innovation [ˌteknəˈlɑːdʒɪkl ˌɪnəˈveɪʃn] 技术创新
+
+
+
+<span style="color: red;">助记：nov = new</span>
+
+
+
+
+
+# rebellious spirit 反抗精神
+
+
+
+rebellious [rɪˈbeljəs] a. 反叛的
+
+spirit [ˈspɪrɪt] n. 精神，灵魂
