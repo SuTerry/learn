@@ -459,3 +459,39 @@ technological innovation [ˌteknəˈlɑːdʒɪkl ˌɪnəˈveɪʃn] 技术创新
 rebellious [rɪˈbeljəs] a. 反叛的
 
 spirit [ˈspɪrɪt] n. 精神，灵魂
+
+
+
+# sensitive skin 敏感肌肤
+
+
+
+sensitive [ˈsensətɪv] a. 敏感的
+
+sense [sens] n. 感觉
+
+
+
+
+
+# fantasy world 幻想世界
+
+
+
+fantasy [ˈfæntəsi] n. 幻想
+
+fantastic [fænˈtæstɪk] a. 奇妙的，美妙的，极好的
+
+
+
+
+
+# aggressive impulse 攻击性冲动
+
+
+
+aggressive [əˈɡresɪv] a. 攻势的，好斗的
+
+impulse [ˈɪmpʌls] a. 冲动的
+
+pulse [pʌls] n. 脉搏 v. 跳动
