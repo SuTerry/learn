@@ -495,3 +495,59 @@ aggressive [əˈɡresɪv] a. 攻势的，好斗的
 impulse [ˈɪmpʌls] a. 冲动的
 
 pulse [pʌls] n. 脉搏 v. 跳动
+
+
+
+
+
+# down-to-earth 脚踏实地的，踏踏实实的
+
+
+
+earth [ɜːθ] n. 地球
+
+diligent [ˈdɪlɪdʒənt] a. 勤奋的
+
+diligence [ˈdɪlɪdʒəns] n. 勤奋
+
+
+
+
+
+# adaptable ability 适应能力
+
+
+
+adapt [əˈdæpt] v. 适应
+
+adopt [əˈdɑːpt] v. 采用，收养
+
+vigorous [ˈvɪɡərəs] a. 充满活力的
+
+vigor [ˈvɪgər] n. 活力
+
+
+
+
+
+# family-oriented 顾家的，居家的
+
+
+
+family [ˈfæməli] n. 家庭
+
+oriented [ˈɔːrientɪd] a. 以...为向导的
+
+orient [ˈɔːrient] v. 定向，朝向
+
+examination [ɪɡˌzæmɪˈneɪʃn] n. 考试，检查
+
+money [ˈmʌni] n. 钱
+
+goal [ɡoʊl] n. 目标
+
+examination-oriented [ɪɡˌzæmɪˈneɪʃn ˈɔːrientɪd] 应试
+
+money-oriented [ˈmʌni ˈɔːrientɪd] 金钱至上
+
+goal-oriented [ɡoʊl ˈɔːrientɪd] 目标导向
