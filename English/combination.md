@@ -551,3 +551,40 @@ examination-oriented [ɪɡˌzæmɪˈneɪʃn ˈɔːrientɪd] 应试
 money-oriented [ˈmʌni ˈɔːrientɪd] 金钱至上
 
 goal-oriented [ɡoʊl ˈɔːrientɪd] 目标导向
+
+oriental [ˌɔːriˈentl] a. 东方的
+
+orientation [ˌɔːriənˈteɪʃn] n. 取向，目标
+
+tolerant [ˈtɑːlərənt] a. 宽容的
+
+tolerate [ˈtɑːləreɪt]  v. 容忍
+
+
+
+
+
+# dominant figure 主导人物
+
+
+
+dominant [ˈdɑːmɪnənt] a. 主导的，占优势的
+
+indomitable [ɪnˈdɑːmɪtəbl] a. 不屈不挠的
+
+domestic [dəˈmestɪk] a. 家庭的，国内的
+
+gross [ɡroʊs] a. 总的，总共的
+
+gross domestic product [ˌɡroʊs dəˌmestɪk ˈprɑːdʌkt] n. 国内生产总值
+
+self-motivated [ˌself ˈmoʊtɪveɪtɪd] a. 自我激励的
+
+motivate [ˈmoʊtɪveɪt] v. 激励，激发
+
+motivation [ˌmoʊtɪˈveɪʃn] n. 动机，动力
+
+
+
+<span style="color: red;">助记：dom = home</span>
+
