@@ -588,3 +588,34 @@ motivation [ˌmoʊtɪˈveɪʃn] n. 动机，动力
 
 <span style="color: red;">助记：dom = home</span>
 
+
+
+
+
+# personal preference 个人喜好
+
+
+
+preference [ˈprefrəns] n. 偏爱
+
+computer [kəmˈpjuːtər] n. 计算机
+
+personal computer [ˌpɜːrsənl kəmˈpjuːtər] 个人计算机
+
+don't take it personal 别忘心里去
+
+
+
+
+
+# recall a message 撤销消息
+
+
+
+mind [maɪnd] n. 头脑，大脑
+
+recall to mind 回想起来
+
+ revoke [rɪˈvoʊk] v. 撤销
+
+voice [vɔɪs] n. 声音，嗓音
