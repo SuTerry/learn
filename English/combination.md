@@ -619,3 +619,43 @@ recall to mind 回想起来
  revoke [rɪˈvoʊk] v. 撤销
 
 voice [vɔɪs] n. 声音，嗓音
+
+evoke [ɪˈvoʊk] v. 唤起，引起
+
+provoke [prəˈvoʊk] v. 激起，触怒
+
+invoke [ɪnˈvoʊk] v. 祈求
+
+
+
+
+
+# restrain impulse 抑制冲动
+
+
+
+restrain [rɪˈstreɪn] v. 抑止，压抑
+
+strain [streɪn] v. 拉紧
+
+straight [streɪt] v. 直，直接的
+
+
+
+# perceive difference 察觉不同
+
+
+
+perceive [pərˈsiːv] v. 感知，意识到，觉察
+
+conceive [kənˈsiːv] v. 构想，想出，怀孕
+
+conceive an idea 构思一个想法
+
+deceive [dɪˈsiːv] v. 欺骗，欺诈
+
+receive [rɪˈsiːv] v. 接收，收到
+
+
+
+<span style="color: red;">助记：ceive = 抓住捕获</span>
