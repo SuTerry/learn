@@ -659,3 +659,36 @@ receive [rɪˈsiːv] v. 接收，收到
 
 
 <span style="color: red;">助记：ceive = 抓住捕获</span>
+
+
+
+
+
+# feel frustrated 感到挫败
+
+
+
+frustrated [ˈfrʌstreɪtɪd] a. 挫败的
+
+frustration [frʌˈstreɪʃn] n. 挫折，失败
+
+depress [dɪˈpres] v. 使沮丧，使萧条
+
+The rainy days always depress me [ðə ˈreɪni deɪz ˈɔːlweɪz dɪˈpres mi] 雨天总是让我沮丧
+
+depressed [dɪˈprest] a. 沮丧的，萧条的
+
+depressing [dɪˈpresɪŋ] a. 令人沮丧的
+
+depression [dɪˈpreʃn] n. 沮丧，衰弱
+
+The Great Depression [ðə ɡreɪt dɪˈpreʃn] 大萧条
+
+
+
+<span style="color: red;">助记：frus = fraud 欺骗/欺诈</span>
+
+
+
+
+
