@@ -684,6 +684,16 @@ depression [dɪˈpreʃn] n. 沮丧，衰弱
 
 The Great Depression [ðə ɡreɪt dɪˈpreʃn] 大萧条
 
+oppress [əˈpres] v. 压迫，使烦恼
+
+suppress [səˈpres] v. 镇压，抑止
+
+pressing [ˈpresɪŋ] a. 紧迫的
+
+despair [dɪˈsper] n. 绝望
+
+desperate [ˈdespərət] a. 绝望的，孤注一掷
+
 
 
 <span style="color: red;">助记：frus = fraud 欺骗/欺诈</span>
@@ -692,3 +702,32 @@ The Great Depression [ðə ɡreɪt dɪˈpreʃn] 大萧条
 
 
 
+# show gratitude to 感激
+
+
+
+gratitude [ˈɡrætɪtuːd] n. 感激，感谢
+
+altitude [ˈæltɪtuːd] n. 海拔
+
+latitude [ˈlætɪtuːd] n. 纬度
+
+appreciate [əˈpriːʃieɪt] v. 欣赏，感谢
+
+
+
+
+
+# self-enhancement 自我提升
+
+
+
+enhance [ɪnˈhæns] v. 增强，提高
+
+enhance confidence 增强信心
+
+concentration [ˌkɑːnsnˈtreɪʃn] n. 集中，专注，浓度
+
+enhance concentration 提高注意力
+
+promote [prəˈmoʊt] v. 促进，提升，促销
