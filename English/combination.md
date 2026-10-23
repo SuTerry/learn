@@ -731,3 +731,47 @@ concentration [ˌkɑːnsnˈtreɪʃn] n. 集中，专注，浓度
 enhance concentration 提高注意力
 
 promote [prəˈmoʊt] v. 促进，提升，促销
+
+promotion [prəˈmoʊʃn] n. 提升，促销，晋级
+
+advance [ədˈvæns] v. 前进，n. 进步，a. 预先的
+
+in advance [ɪn ədˈvæns] 提前，事先，预先
+
+technological advances [ˌteknəˈlɑːdʒɪkl ədˈvænsɪz] 技术进步
+
+advanced [ədˈvænst] a. 先进的，高级的
+
+advanced technology [ədˈvænst tekˈnɑːlədʒi] 先进技术
+
+fresh [freʃ] a. 新鲜的，刚刚，n. 开始
+
+freshman [ˈfreʃmən] n. 大一新生
+
+refresh [rɪˈfreʃ] n. 刷新，v.使恢复
+
+memory [ˈmeməri] n. 记忆
+
+refresh one's memory [rɪˈfreʃ wʌnz ˈmeməri] 恢复记忆
+
+refresh oneself [rɪˈfreʃ wʌnˈself] 提神醒脑
+
+refreshment [rɪˈfreʃmənt] n. 提神，茶点
+
+sophomore [ˈsɑːfəmɔːr] n. 大二
+
+sophisticated [səˈfɪstɪkeɪtɪd] a. 复杂的，精密的，世故的
+
+philosophy [fəˈlɑːsəfi] n. 哲学
+
+philosopher [fəˈlɑːsəfər] n. 哲学家
+
+junior [ˈdʒuːniər] n. 青少年，初级，大三，a. 幼年的
+
+senior [ˈsiːniər] n. 年长者，高级，大四，a. 高级的
+
+undergraduate [ˌʌndərˈɡrædʒuət] n./a. 大学生
+
+
+
+<span style="color: red;">助记：soph = wise 聪明</span>
