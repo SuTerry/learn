@@ -775,3 +775,73 @@ undergraduate [ˌʌndərˈɡrædʒuət] n./a. 大学生
 
 
 <span style="color: red;">助记：soph = wise 聪明</span>
+
+
+
+
+
+# tuition fee 学费
+
+
+
+tuition [tuˈɪʃn] n. 学费，教学，讲授
+
+tutor [ˈtuːtər] n. 家庭教师，导师
+
+fee [fiː] n. 费用
+
+intuition [ˌɪntuˈɪʃn] n. 直觉
+
+
+
+
+
+# overall ability 综合能力
+
+
+
+overall [ˈoʊvərɔːl] a. 全部，综合，ad. 总的来说
+
+comprehensive [ˌkɑːmprɪˈhensɪv] a. 综合的
+
+comprehend [ˌkɑːmprɪˈhend] v. 理解
+
+
+
+<span style="color: red;">助记：prehend/prehens = catch 抓</span>
+
+
+
+
+
+# gain certificate 考证
+
+
+
+gain [ɡeɪn] v. 获得，增加
+
+certain [ˈsɜːrtn] a. 确定的
+
+certify [ˈsɜːrtɪfaɪ] v. 证明
+
+certificate [sərˈtɪfɪkeɪt] n. 证书，文凭
+
+certification [ˌsɜːrtɪfɪˈkeɪʃn] n. 证明，认证
+
+
+
+<span style="color: red;">助记：cer = sure 确定</span>
+
+
+
+
+
+# academic
+
+
+
+academic [ˌækəˈdemɪk] a. 学术的，理论的
+
+academy [əˈkædəmi] n. 学院，专科学院
+
+scholarship [ˈskɑːlərʃɪp] n. 奖学金
