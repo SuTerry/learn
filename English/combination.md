@@ -836,7 +836,7 @@ certification [ˌsɜːrtɪfɪˈkeɪʃn] n. 证明，认证
 
 
 
-# academic
+# academic scholarship 学术奖学金
 
 
 
@@ -844,4 +844,44 @@ academic [ˌækəˈdemɪk] a. 学术的，理论的
 
 academy [əˈkædəmi] n. 学院，专科学院
 
-scholarship [ˈskɑːlərʃɪp] n. 奖学金
+scholarship [ˈskɑːlərʃɪp] n. 奖学金，学术
+
+scholar [ˈskɑːlər] n. 学者
+
+
+
+
+
+# stimulate learning motivation 激发学习动力
+
+
+
+stimulate [ˈstɪmjuleɪt] v. 刺激
+
+
+
+
+
+# academic performance 学业成绩
+
+
+
+perform [pərˈfɔːrm] v. 执行，表演，表现
+
+performance [pərˈfɔːrməns] n. 表演，演技，表现
+
+
+
+
+
+# virtual currency 虚拟货币
+
+
+
+virtual [ˈvɜːrtʃuəl] a. 虚拟的
+
+currency [ˈkɜːrənsi] n. 货币
+
+virtual reality [ˌvɜːrtʃuəl riˈæləti] 虚拟现实
+
+virtually [ˈvɜːrtʃuəli] a. 实际上
