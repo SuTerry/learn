@@ -885,3 +885,73 @@ currency [ˈkɜːrənsi] n. 货币
 virtual reality [ˌvɜːrtʃuəl riˈæləti] 虚拟现实
 
 virtually [ˈvɜːrtʃuəli] a. 实际上
+
+exchange [ɪksˈtʃeɪndʒ] n. 交换
+
+currency exchange [ˈkɜːrənsi ɪksˈtʃeɪndʒ] 货币兑换
+
+sneak [sniːk] v./n./a. 潜行，偷偷溜走
+
+sneak attack [sniːk əˈtæk] 偷袭
+
+sneaker [ˈsniːkər] n. 运动鞋
+
+
+
+
+
+# cosmetic products 化妆品
+
+
+
+cosmetic [kɑːzˈmetɪk] a./n. 化妆品
+
+surgery [ˈsɜːrdʒəri] n. 手术
+
+cosmetic surgery [kɑːzˈmetɪk ˈsɜːrdʒəri] 整容手术
+
+
+
+
+
+# e-commerce platform 电子商务平台
+
+
+
+commerce [ˈkɑːmɜːrs] n. 商业
+
+platform [ˈplætfɔːrm] n. 平台
+
+electronic [ɪˌlekˈtrɑːnɪk] a. 电子的
+
+electronic commerce [ɪˌlekˈtrɑːnɪk ˈkɑːmɜːrs] 电子商务
+
+commercial [kəˈmɜːrʃl] a. 商业的
+
+merchant [ˈmɜːrtʃənt] n. 商人
+
+merchandise [ˈmɜːrtʃəndaɪz] n. 商品，货品，v. 买卖
+
+
+
+<span style="color: red;">助记：merc = trade 贸易，交易</span>
+
+
+
+
+
+# joint enterprise 合资企业
+
+
+
+joint [dʒɔɪnt] a. 共同的，联合的
+
+effort [ˈefərt] n. 努力
+
+joint effort [dʒɔɪnt ˈefərt] 共同努力
+
+enterprise [ˈentərpraɪz] n. 企业，事业心
+
+
+
+<span style="color: red;">助记：prise = take 抓住，拿</span>
