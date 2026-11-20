@@ -952,6 +952,42 @@ joint effort [dʒɔɪnt ˈefərt] 共同努力
 
 enterprise [ˈentərpraɪz] n. 企业，事业心
 
+private [ˈpraɪvɪt] a. 私有的
+
+private enterprise [ˌpraɪvət ˈentərpraɪz] 私营企业
+
+state [steɪt] n. 状态，国家
+
+state enterprise [steɪt ˈentərpraɪz] 国有企业
+
 
 
 <span style="color: red;">助记：prise = take 抓住，拿</span>
+
+
+
+
+
+# core competence 核心竞争力
+
+
+
+core [kɔːr] n. 核心，最重要的
+
+compete [kəmˈpiːt] v. 竞争
+
+competence [ˈkɑːmpɪtəns] n. 能力
+
+competitive [kəmˈpetətɪv] a. 竞争的，比赛的
+
+competition [ˌkɑːmpəˈtɪʃn] n. 竞争，比赛
+
+contest [ˈkɑːntest ] n./v. 竞争，比赛
+
+rival [ˈraɪvl] v. 竞争，n. 对手
+
+
+
+
+
+<span style="color: red;">助记：pet = seek 寻求，争取</span>
